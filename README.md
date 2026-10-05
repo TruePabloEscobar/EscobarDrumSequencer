@@ -6,7 +6,9 @@ Drum sampler and step sequencer VST3 for fast pattern creation, per-step dynamic
 **Format:** VST3  
 **Author:** [Pablo Escobar](https://pabloescobardj.web.app/)
 
-[Download the latest release](https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/latest)
+[Download the VST3 ZIP](https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.6.2/EscobarDrumSequencer-Windows-v0.6.2.zip)
+
+[View release notes](https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/latest)
 
 Close your DAW before installing or replacing the plugin. Extract the ZIP and copy the complete `.vst3` folder into your VST3 plugins directory, then rescan plugins in your DAW. Keep the same installation path when updating existing projects.
 

@@ -2,12 +2,12 @@
     "product":  "Escobar Drum Sequencer",
     "shortName":  "EDS Drums",
     "channel":  "stable",
-    "version":  "0.6.0",
+    "version":  "0.6.2",
     "platform":  "windows-x64",
     "format":  "VST3",
-    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.6.0",
-    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.6.0/EscobarDrumSequencer-Windows-v0.6.0.zip",
-    "sha256":  "CE122D9384A040CAE324B9DC56E2240A4C5D81A70979FE67C22D3ED781F06109",
+    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.6.2",
+    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.6.2/EscobarDrumSequencer-Windows-v0.6.2.zip",
+    "sha256":  "FE6630049CC0146F1821A2F191B60AFD5AF806AC90EEB7261BA81B85BA3D4BA7",
     "mandatory":  false,
-    "notes":  "- Added automatic daily update checks and a discreet About panel.\n- Added manual update checks and a link to verified stable releases.\n- Added a separate binary distribution pipeline with ZIP packaging and SHA-256 verification.\n"
+    "notes":  "- Improved the MIDI and audio drag handoff to Ableton Live on Windows.\n- Kept the export window alive until the external drag finishes.\n- Restored Live window focus before starting the drag.\n"
 }
