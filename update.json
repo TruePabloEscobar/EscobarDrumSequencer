@@ -2,12 +2,12 @@
     "product":  "Escobar Drum Sequencer",
     "shortName":  "EDS Drums",
     "channel":  "stable",
-    "version":  "0.6.2",
+    "version":  "0.7.0",
     "platform":  "windows-x64",
     "format":  "VST3",
-    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.6.2",
-    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.6.2/EscobarDrumSequencer-Windows-v0.6.2.zip",
-    "sha256":  "FE6630049CC0146F1821A2F191B60AFD5AF806AC90EEB7261BA81B85BA3D4BA7",
+    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.7.0",
+    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.7.0/EscobarDrumSequencer-Windows-v0.7.0.zip",
+    "sha256":  "1041D776622332FB74A23F38342AFB6599B19049D6C0A27F0D1E6DAF9E7393FB",
     "mandatory":  false,
-    "notes":  "- Improved the MIDI and audio drag handoff to Ableton Live on Windows.\n- Kept the export window alive until the external drag finishes.\n- Restored Live window focus before starting the drag.\n"
+    "notes":  "EDS Drums 0.7.0\n\n- Patterns numerados: adicione variacoes vazias, alterne entre elas e use o clique direito para copiar e colar os steps. As linhas e samples sao compartilhadas.\n- Exportacao MIDI e AUDIO: as opcoes escolhidas ficam salvas. Arraste diretamente dos botoes do cabecalho para usar a ultima configuracao.\n- Exporte todos os patterns como arquivos separados, em formato unificado ou por linha.\n- Interface mais compacta: botao R ao lado do C, linha unica de steps menor e melhor ajuste em janelas estreitas.\n- Cores verde e marrom mais legiveis no tema escuro e resposta mais rapida ao segurar um step para ajustar volume e pan.\n"
 }
