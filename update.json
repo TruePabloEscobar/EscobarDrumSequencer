@@ -2,12 +2,12 @@
     "product":  "Escobar Drum Sequencer",
     "shortName":  "EDS Drums",
     "channel":  "stable",
-    "version":  "0.7.0",
+    "version":  "0.7.1",
     "platform":  "windows-x64",
     "format":  "VST3",
-    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.7.0",
-    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.7.0/EscobarDrumSequencer-Windows-v0.7.0.zip",
-    "sha256":  "1041D776622332FB74A23F38342AFB6599B19049D6C0A27F0D1E6DAF9E7393FB",
+    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.7.1",
+    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.7.1/EscobarDrumSequencer-Windows-v0.7.1.zip",
+    "sha256":  "4E18F09FF66C649EE0D002732578971D48DAC2AFB9D3D2DD8924D90F69A63972",
     "mandatory":  false,
-    "notes":  "EDS Drums 0.7.0\n\n- Patterns numerados: adicione variacoes vazias, alterne entre elas e use o clique direito para copiar e colar os steps. As linhas e samples sao compartilhadas.\n- Exportacao MIDI e AUDIO: as opcoes escolhidas ficam salvas. Arraste diretamente dos botoes do cabecalho para usar a ultima configuracao.\n- Exporte todos os patterns como arquivos separados, em formato unificado ou por linha.\n- Interface mais compacta: botao R ao lado do C, linha unica de steps menor e melhor ajuste em janelas estreitas.\n- Cores verde e marrom mais legiveis no tema escuro e resposta mais rapida ao segurar um step para ajustar volume e pan.\n"
+    "notes":  "EDS Drums 0.7.1\n\n- Controle de pitch redesenhado: dial maior, alinhado na parte superior da linha, com o valor editavel no centro.\n- Mantidos o ajuste por arraste, a digitacao por duplo clique no valor e o limite de -24 a +24 semitons.\n"
 }
