@@ -6,7 +6,7 @@ Drum sampler and step sequencer VST3 for fast pattern creation, per-step dynamic
 **Format:** VST3  
 **Author:** [Pablo Escobar](https://pabloescobardj.web.app/)
 
-[Download the VST3 ZIP](https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.8.0/EscobarDrumSequencer-Windows-v0.8.0.zip)
+[Download the VST3 ZIP](https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.8.1/EscobarDrumSequencer-Windows-v0.8.1.zip)
 
 [View release notes](https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/latest)
 
