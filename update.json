@@ -2,12 +2,12 @@
     "product":  "Escobar Drum Sequencer",
     "shortName":  "EDS Drums",
     "channel":  "stable",
-    "version":  "0.7.2",
+    "version":  "0.8.0",
     "platform":  "windows-x64",
     "format":  "VST3",
-    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.7.2",
-    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.7.2/EscobarDrumSequencer-Windows-v0.7.2.zip",
-    "sha256":  "30C5C0CBFAF3C8288979CB3478451A44B68E9BF2217FDF1857EBB323EB524052",
+    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.8.0",
+    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.8.0/EscobarDrumSequencer-Windows-v0.8.0.zip",
+    "sha256":  "F1741F663D7CF675C6F8D3194FA3F9AD78445FCB03FCAC208D9BE1DA4FFCC3E2",
     "mandatory":  false,
-    "notes":  "EDS Drums 0.7.2\n\n- Linhas mais compactas, com menos espaco vazio abaixo dos controles e dos steps.\n- Pitch um pouco menor e mais proximo dos botoes da linha.\n- Clique no nome da sample para ouvir; duplo clique para escolher outra sample. O botao de play separado foi removido.\n- Janela R reorganizada: volume e pan usam uma faixa com ajustes de minimo e maximo; a chance de trigger usa uma faixa percentual. Cada ajuste aparece somente quando ativado.\n"
+    "notes":  "- Novo parametro EDS Pattern para automatizar a troca imediata de patterns no Ableton Live.\n- Cada step agora tem pitch proprio na matriz; o pitch master foi movido para o editor da sample.\n- Editor de layers no duplo clique da sample: adicione ou troque samples e ajuste volume, pitch e corte de inicio/fim por layer.\n- EQ parametrico por layer com tres bandas iniciais e bandas adicionais de frequencia, ganho e largura ajustaveis.\n- Botao da sample mais largo e matriz de steps com mais espaco horizontal.\n"
 }
