@@ -2,12 +2,12 @@
     "product":  "Escobar Drum Sequencer",
     "shortName":  "EDS Drums",
     "channel":  "stable",
-    "version":  "0.7.1",
+    "version":  "0.7.2",
     "platform":  "windows-x64",
     "format":  "VST3",
-    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.7.1",
-    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.7.1/EscobarDrumSequencer-Windows-v0.7.1.zip",
-    "sha256":  "4E18F09FF66C649EE0D002732578971D48DAC2AFB9D3D2DD8924D90F69A63972",
+    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.7.2",
+    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.7.2/EscobarDrumSequencer-Windows-v0.7.2.zip",
+    "sha256":  "30C5C0CBFAF3C8288979CB3478451A44B68E9BF2217FDF1857EBB323EB524052",
     "mandatory":  false,
-    "notes":  "EDS Drums 0.7.1\n\n- Controle de pitch redesenhado: dial maior, alinhado na parte superior da linha, com o valor editavel no centro.\n- Mantidos o ajuste por arraste, a digitacao por duplo clique no valor e o limite de -24 a +24 semitons.\n"
+    "notes":  "EDS Drums 0.7.2\n\n- Linhas mais compactas, com menos espaco vazio abaixo dos controles e dos steps.\n- Pitch um pouco menor e mais proximo dos botoes da linha.\n- Clique no nome da sample para ouvir; duplo clique para escolher outra sample. O botao de play separado foi removido.\n- Janela R reorganizada: volume e pan usam uma faixa com ajustes de minimo e maximo; a chance de trigger usa uma faixa percentual. Cada ajuste aparece somente quando ativado.\n"
 }
