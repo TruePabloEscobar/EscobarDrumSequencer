@@ -2,12 +2,12 @@
     "product":  "Escobar Drum Sequencer",
     "shortName":  "EDS Drums",
     "channel":  "stable",
-    "version":  "0.8.1",
+    "version":  "0.8.2",
     "platform":  "windows-x64",
     "format":  "VST3",
-    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.8.1",
-    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.8.1/EscobarDrumSequencer-Windows-v0.8.1.zip",
-    "sha256":  "722865CD738713E004FDC9D0FD76694552481A46F27032E612A790E8756FB794",
+    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.8.2",
+    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.8.2/EscobarDrumSequencer-Windows-v0.8.2.zip",
+    "sha256":  "3531456005A76CC2250DCF8FC15B509283026A2CB260DEFE0DE7EF3E59999030",
     "mandatory":  false,
-    "notes":  "- Editor de samples redesenhado com waveform, corte diretamente na forma de onda e controles visuais compactos por layer.\n- EQ paramétrico compacto com curva de resposta e pontos arrastáveis para frequência e ganho.\n- Duplo clique no gráfico adiciona uma banda; a roda do mouse ajusta Q da banda selecionada.\n- Cores e controles alinhados à identidade visual do EDS nos temas claro e escuro.\n"
+    "notes":  "- O Sample Lab agora abre dentro da janela do EDS e permanece aberto ao clicar fora; feche pelo X no canto.\n- Arraste WAV, AIFF ou FLAC sobre + LAYER para criar um layer, ou sobre a sample selecionada para substitui-la.\n- Projetos novos comecam com um compasso. Projetos existentes preservam a quantidade salva.\n"
 }
