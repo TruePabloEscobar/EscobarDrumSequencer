@@ -2,12 +2,12 @@
     "product":  "Escobar Drum Sequencer",
     "shortName":  "EDS Drums",
     "channel":  "stable",
-    "version":  "0.8.2",
+    "version":  "0.8.3",
     "platform":  "windows-x64",
     "format":  "VST3",
-    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.8.2",
-    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.8.2/EscobarDrumSequencer-Windows-v0.8.2.zip",
-    "sha256":  "3531456005A76CC2250DCF8FC15B509283026A2CB260DEFE0DE7EF3E59999030",
+    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.8.3",
+    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.8.3/EscobarDrumSequencer-Windows-v0.8.3.zip",
+    "sha256":  "DFEED37158A83B442F6E242A8DBC5F3E825AB9AA3BDD98761B79D223133D5C4F",
     "mandatory":  false,
-    "notes":  "- O Sample Lab agora abre dentro da janela do EDS e permanece aberto ao clicar fora; feche pelo X no canto.\n- Arraste WAV, AIFF ou FLAC sobre + LAYER para criar um layer, ou sobre a sample selecionada para substitui-la.\n- Projetos novos comecam com um compasso. Projetos existentes preservam a quantidade salva.\n"
+    "notes":  "- O clique direito nos numeros de pattern agora oferece Excluir pattern, alem de Copiar e Colar.\n- Os patterns restantes sao renumerados e o pattern ativo permanece sincronizado com a automacao do host.\n- O ultimo pattern nao pode ser excluido.\n"
 }
