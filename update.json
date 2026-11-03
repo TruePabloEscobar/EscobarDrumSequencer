@@ -1,13 +1,15 @@
 {
-    "product":  "Escobar Drum Sequencer",
-    "shortName":  "EDS Drums",
-    "channel":  "stable",
-    "version":  "0.8.3",
-    "platform":  "windows-x64",
-    "format":  "VST3",
-    "releaseUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.8.3",
-    "downloadUrl":  "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.8.3/EscobarDrumSequencer-Windows-v0.8.3.zip",
-    "sha256":  "DFEED37158A83B442F6E242A8DBC5F3E825AB9AA3BDD98761B79D223133D5C4F",
-    "mandatory":  false,
-    "notes":  "- O clique direito nos numeros de pattern agora oferece Excluir pattern, alem de Copiar e Colar.\n- Os patterns restantes sao renumerados e o pattern ativo permanece sincronizado com a automacao do host.\n- O ultimo pattern nao pode ser excluido.\n"
+  "product": "Escobar Drum Sequencer",
+  "shortName": "EDS Drums",
+  "channel": "stable",
+  "version": "0.8.3",
+  "platform": "windows-x64",
+  "format": "VST3",
+  "releaseUrl": "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/tag/v0.8.3",
+  "downloadUrl": "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.8.3/EscobarDrumSequencer-Windows-v0.8.3.zip",
+  "sha256": "DFEED37158A83B442F6E242A8DBC5F3E825AB9AA3BDD98761B79D223133D5C4F",
+  "mandatory": false,
+  "notes": "- O clique direito nos numeros de pattern agora oferece Excluir pattern, alem de Copiar e Colar.\n- Os patterns restantes sao renumerados e o pattern ativo permanece sincronizado com a automacao do host.\n- O ultimo pattern nao pode ser excluido.\n",
+  "installerUrl": "https://github.com/TruePabloEscobar/EscobarDrumSequencer/releases/download/v0.8.3/EscobarDrumSequencer-Setup-v0.8.3.exe",
+  "installerSha256": "924F51E61819031D524D5A25CD0C0AEC65C5E3DDBFC5119529AFF27F9B422C71"
 }
